@@ -5,3 +5,4 @@ read -p "enter the values: a
 read -p "enter the value": b
 echo "prin the values $a and $b"
 #end of the script
+#giving the code is basiclly not good.. check one this code after use it
