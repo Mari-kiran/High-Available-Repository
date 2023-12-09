@@ -1,1 +1,7 @@
 #!/bin/bash
+#small arthmatic operation
+read -p "Enter the value:" a
+read -p "enther the value:" b
+Addition=`expr $a + $b`
+echo "The value of $Addition"
+#end of the script
